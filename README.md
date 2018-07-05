@@ -10,3 +10,4 @@ En este repositorio se van a almacenar todos los proyectos que se generen dentro
 2. Número Par
 3. Contador Dígitos
 4. Manejo de Variables
+5. Tipos de Datos
