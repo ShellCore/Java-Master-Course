@@ -11,4 +11,5 @@ En este repositorio se van a almacenar todos los proyectos que se generen dentro
 3. Contador Dígitos
 4. Manejo de Variables
 5. Tipos de Datos
-6. Manejo de operadores
+6. Manejo de Operadores
+7. Manejo de Funciones
