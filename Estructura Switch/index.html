@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="es" dir="ltr">
+    <head>
+        <meta charset="utf-8">
+        <title>Programa para determinar el día de la fecha seleccionada.</title>
+        <script src="js/programa.js"></script>
+    </head>
+    <body>
+        <h1>Programa para determinar el día de la fecha seleccionada.</h1>
+        <br />
+        <label for="edad">Selecciona una fecha:</label>
+        <input type="date" name="fecha" onchange="determinarDiaSegunFechaSeleccionada(this);" />
+        <br />
+        <br />
+        <div id="resultado" style="color:red"></div>
+        <br />
+        <h3 style="color:violet">Nota: Este código funciona solo en Chrome y Opera.</h3>
+    </body>
+</html>
