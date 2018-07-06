@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="es" dir="ltr">
+    <head>
+        <meta charset="utf-8">
+        <title>Programa para determinar la clasificación de peliculas por edades.</title>
+        <script src="js/programa.js"></script>
+    </head>
+    <body>
+        <h1>Programa para determinar la clasificación de peliculas por edades.</h1>
+        <br />
+        <label for="edad">Proporciona la edad y presiona Enter:</label>
+        <input type="text" name="edad" onchange="determinaClasificacionPorEdades(this);" />
+        <br />
+        <br />
+        <div>Películas con clasificación sugeridas:</div>
+        <div id="resultado" style="color:red"></div>
+    </body>
+</html>
