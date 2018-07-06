@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="es" dir="ltr">
+    <head>
+        <meta charset="utf-8">
+        <title>Manejo de Ámbito de Variables</title>
+        <script src="js/programa.js"></script>
+    </head>
+    <body>
+        <label>Proporciona tu nombre y presiona Enter: </label>
+        <input type="text" name="nombre" onchange="mostrarNombre(this);" />
+        <br />
+        <div id="resultado"></div>
+        <br />
+        <button onclick="saludarLocal('Carlos');">Saludar Local</button>
+        <br />
+        <button onclick="saludarGlobal();">Saludar Global</button>
+    </body>
+</html>

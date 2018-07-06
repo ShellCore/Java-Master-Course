@@ -14,3 +14,4 @@ En este repositorio se van a almacenar todos los proyectos que se generen dentro
 6. Manejo de Operadores
 7. Manejo de Funciones
 8. Manejo de HTML y JavaScript
+9. Manejo de Ámbito de Variables
