@@ -21,3 +21,4 @@ En este repositorio se van a almacenar todos los proyectos que se generen dentro
 13. Ciclo While
 14. Manejo de arreglos
 15. Manejo de matrices
+16. Uso de funciones
