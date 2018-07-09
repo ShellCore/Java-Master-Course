@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="es" dir="ltr">
+    <head>
+        <meta charset="utf-8">
+        <title>Catálogo de películas.</title>
+        <script src="js/programa.js"></script>
+    </head>
+    <body>
+        <h1>Catálogo de películas.</h1>
+        <br />
+        <br />
+        <label for="captura">Agrega una pelicula y presiona Enter:</label>
+        <input type="text" name="captura" onchange="almacenaPelicula(this);" />
+        <br />
+        <div id="listaPeliculas" style="color:red"></div>
+        <br />
+        <br />
+        <label for="consulta">Escribe el nombre de la película para mostrar su posición: </label>
+        <input type="text" name="consulta" onchange="consultaPelicula(this)" />
+        <br />
+        <div id="resultadoIndice" style="color:red"></div>
+    </body>
+</html>

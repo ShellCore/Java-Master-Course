@@ -23,3 +23,6 @@ En este repositorio se van a almacenar todos los proyectos que se generen dentro
 15. Manejo de matrices
 16. Uso de funciones (factorial)
 17. Uso de funciones (Fibonnaci)
+18. Proyecto final
+    a. Calculadora Sencilla
+    b. Catálogo de películas
