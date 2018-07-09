@@ -17,3 +17,4 @@ En este repositorio se van a almacenar todos los proyectos que se generen dentro
 9. Manejo de Ámbito de Variables
 10. Estructuras IF ELSE
 11. Estructura SWITCH
+12. Ciclo For
